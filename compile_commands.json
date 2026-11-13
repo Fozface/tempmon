@@ -1,0 +1,41 @@
+[
+  {
+    "file": "main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-g",
+      "-c",
+      "main.c"
+    ],
+    "directory": "/home/tyler/code/ServerLinux"
+  },
+  {
+    "file": "sensor.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-g",
+      "-c",
+      "sensor.c"
+    ],
+    "directory": "/home/tyler/code/ServerLinux"
+  },
+  {
+    "file": "helper.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-g",
+      "-c",
+      "helper.c"
+    ],
+    "directory": "/home/tyler/code/ServerLinux"
+  }
+]
